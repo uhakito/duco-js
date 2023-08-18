@@ -1,5 +1,5 @@
 // Import the SHA1 library
-importScripts(`hashes.js`);
+importScripts(`https://raw.githubusercontent.com/uhakito/duco-js/main/hashes.js`);
 
 onmessage = (event) => { // Execute on message from the main script
     // Gets the data from the event.data variable
